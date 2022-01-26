@@ -1,0 +1,43 @@
+{
+  
+  "prefix" : "PREFİXİNİZ",
+  "sahip" : "SAHİP ID",
+  "token" : "TOKEN",
+  
+  "sunucuid": "SUNUCU İD",
+  
+  "register": "KAYITÇI ROL İD",
+  "ilkrol": "KAYITSIZ ÜYE İD",
+  "allcommands": "TÜM KOMUTLAR İD",
+  "chatsorumlusu": "CHAT SORUMLUSU İD",
+  "muteci": "MUTE HAMMER",
+  "jailci": "JAİL HAMMER",
+  
+  "erkek": "Erkek Rol",
+  "erkek2": "Erkek Rol 2 (yoksa boş bırak)",
+  "kadın": "Kadın Rol",
+  "kadın2": "Kadın Rol 2 (yoksa boş bırak)",
+  "unregister": "KAYITSIZ ÜYE İD",
+  "vip": "VİP ÜYE İD",
+  
+  "tag": "TAGINIZ",
+  "tagrol": "TAGLI ÜYE İD",
+
+  "taglog": "TAG LOG",
+  "nicklog": "NİCK LOG",
+  "kayıtlog": "KAYIT LOG",
+  "ytallog": "YT LOG",
+  "mutelog": "MUTE LOG",
+  "jaillog": "JAİL LOG",
+  
+  "muterol": "MUTE ROL İD",
+  "cezalı": "CEZALI ÜYE İD",
+  
+  "botkanal": "BOT SES KANALI",
+  "chat":"SOHBET KANALI",
+  
+  "ready": "Adınız ❤️ Sunucu Adınız",
+
+  "footer": "Adınız ❤️ Sunucu Adınız"
+  
+}
